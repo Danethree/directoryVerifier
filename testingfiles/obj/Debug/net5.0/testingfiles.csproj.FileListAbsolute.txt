@@ -1,0 +1,12 @@
+C:\Users\danid\RiderProjects\testingfiles\testingfiles\bin\Debug\net5.0\testingfiles.deps.json
+C:\Users\danid\RiderProjects\testingfiles\testingfiles\bin\Debug\net5.0\testingfiles.dll
+C:\Users\danid\RiderProjects\testingfiles\testingfiles\bin\Debug\net5.0\ref\testingfiles.dll
+C:\Users\danid\RiderProjects\testingfiles\testingfiles\bin\Debug\net5.0\testingfiles.pdb
+C:\Users\danid\RiderProjects\testingfiles\testingfiles\obj\Debug\net5.0\testingfiles.csprojAssemblyReference.cache
+C:\Users\danid\RiderProjects\testingfiles\testingfiles\obj\Debug\net5.0\testingfiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danid\RiderProjects\testingfiles\testingfiles\obj\Debug\net5.0\testingfiles.AssemblyInfoInputs.cache
+C:\Users\danid\RiderProjects\testingfiles\testingfiles\obj\Debug\net5.0\testingfiles.AssemblyInfo.cs
+C:\Users\danid\RiderProjects\testingfiles\testingfiles\obj\Debug\net5.0\testingfiles.csproj.CoreCompileInputs.cache
+C:\Users\danid\RiderProjects\testingfiles\testingfiles\obj\Debug\net5.0\testingfiles.dll
+C:\Users\danid\RiderProjects\testingfiles\testingfiles\obj\Debug\net5.0\ref\testingfiles.dll
+C:\Users\danid\RiderProjects\testingfiles\testingfiles\obj\Debug\net5.0\testingfiles.pdb
